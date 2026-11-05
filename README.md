@@ -25,7 +25,7 @@ O catálogo é configurável em `app/src/main/assets/pets.json`; Android e prév
 
 ## Packs reunidos
 
-O [ZIP completo](packs/ScreenPet-Packs-Completo.zip) reúne os quatro packs recebidos, 27 arquivos fonte, 12 folhas ampliadas em 4×/8× e um índice JSON com dimensões e hashes. [Consulte a origem e a situação das licenças das artes](packs/ORIGEM-E-LICENCAS.md): os ZIPs não trouxeram termos de licença, e a licença MIT do código não se estende a esses assets.
+O [ZIP completo](packs/ScreenPet-Packs-Completo.zip) reúne os quatro packs recebidos, 26 arquivos fonte, 12 folhas ampliadas em 4×/8× e um índice JSON com dimensões e hashes. [Consulte a origem e a situação das licenças das artes](packs/ORIGEM-E-LICENCAS.md): os ZIPs não trouxeram termos de licença, e a licença MIT do código não se estende a esses assets.
 
 App Android nativo em Java, Android 8.0 ou superior, sem bibliotecas de terceiros e sem permissão de internet. A pasta `preview` contém uma demonstração HTML independente e offline.
 

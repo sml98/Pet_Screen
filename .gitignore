@@ -10,3 +10,7 @@ signing-backup/
 **/signing-backup/
 **/*PRIVADA*
 **/*PRIVADO*
+__pycache__/
+*.py[cod]
+__MACOSX/
+.DS_Store

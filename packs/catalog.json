@@ -287,11 +287,5 @@
     "height": 256,
     "mode": "RGBA",
     "kind": "ui_atlas_or_prop"
-  },
-  {
-    "path": "__MACOSX/CatPackHalloweenFREE/EyeinJar/Aseprite/._EyeInJar.aseprite",
-    "sourceArchive": "__MACOSX.zip",
-    "sha256": "17ac1d7993895fd8dc74141f6b8731c4cd67d48f9cd0f0e1c77eadfdbc0e00c1",
-    "license": "not supplied; see ORIGEM-E-LICENCAS.md"
   }
 ]

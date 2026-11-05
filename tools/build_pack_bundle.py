@@ -6,7 +6,7 @@ r=Path(__file__).resolve().parents[1];files=[];known={'Idle.png':(32,32),'drcula
 for p in sorted((r/'original').glob('*.png')):
  if '.preview.' not in p.name:files.append((p,'CatPackFree/'+p.name,'CatPackFree.zip'))
 for p in sorted((r/'extra-packs').rglob('*')):
- if p.is_file():files.append((p,str(p.relative_to(r/'extra-packs')),p.relative_to(r/'extra-packs').parts[0]+'.zip'))
+ if p.is_file() and not any(part.startswith(".") or part=="__MACOSX" for part in p.relative_to(r/"extra-packs").parts):files.append((p,str(p.relative_to(r/'extra-packs')),p.relative_to(r/'extra-packs').parts[0]+'.zip'))
 index=[]
 for path,archive,source in files:
  row={'path':archive,'sourceArchive':source,'sha256':hashlib.sha256(path.read_bytes()).hexdigest(),'license':'not supplied; see ORIGEM-E-LICENCAS.md'}
