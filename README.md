@@ -1,6 +1,6 @@
 # Pet Screen 🐾 · fábrica de pets Android
 
-**[Baixar APK pronto](https://github.com/sml98/Pet_Screen/releases/latest/download/Gato-de-Tela.apk)** · **[Baixar pack reunido](packs/ScreenPet-Packs-Completo.zip)** · **[Skill para agentes](skills/android-screen-pet/SKILL.md)** · **[Criar sua versão](docs/ADAPTAR-OUTRO-PACK.md)**
+**[Baixar APK pronto](https://github.com/sml98/Pet_Screen/raw/refs/heads/main/downloads/Gato-de-Tela.apk)** · **[Baixar pack reunido](packs/ScreenPet-Packs-Completo.zip)** · **[Skill para agentes](skills/android-screen-pet/SKILL.md)** · **[Criar sua versão](docs/ADAPTAR-OUTRO-PACK.md)**
 
 Exemplo reutilizável de pet virtual Android: seis gatos, fome, sono, carinho, humor, nome, sexo do perfil, cinco personalidades, cores, acessórios, temas e tamanho ajustável. O gato fica sobre outros apps e pausa a animação com a tela apagada.
 
