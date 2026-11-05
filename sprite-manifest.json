@@ -1,0 +1,380 @@
+[
+  {
+    "file": "Idle.png",
+    "sheet": [
+      320,
+      32
+    ],
+    "frame": [
+      32,
+      32
+    ],
+    "frames": 10,
+    "alpha": true,
+    "frameBounds": [
+      [
+        0,
+        4,
+        24,
+        32
+      ],
+      [
+        0,
+        4,
+        24,
+        32
+      ],
+      [
+        0,
+        4,
+        26,
+        32
+      ],
+      [
+        0,
+        5,
+        28,
+        32
+      ],
+      [
+        0,
+        5,
+        30,
+        32
+      ],
+      [
+        0,
+        5,
+        32,
+        32
+      ],
+      [
+        0,
+        5,
+        30,
+        32
+      ],
+      [
+        0,
+        4,
+        28,
+        32
+      ],
+      [
+        0,
+        4,
+        26,
+        32
+      ],
+      [
+        0,
+        4,
+        24,
+        32
+      ]
+    ],
+    "states": "Shared sheet with procedural idle/walk/climb/hang/fall/land/sit/drag/sleep"
+  },
+  {
+    "file": "drculacat.png",
+    "sheet": [
+      192,
+      32
+    ],
+    "frame": [
+      32,
+      32
+    ],
+    "frames": 6,
+    "alpha": true,
+    "frameBounds": [
+      [
+        0,
+        3,
+        32,
+        32
+      ],
+      [
+        0,
+        3,
+        32,
+        32
+      ],
+      [
+        0,
+        4,
+        32,
+        32
+      ],
+      [
+        0,
+        3,
+        32,
+        32
+      ],
+      [
+        0,
+        3,
+        32,
+        32
+      ],
+      [
+        0,
+        4,
+        31,
+        32
+      ]
+    ],
+    "states": "Shared sheet with procedural idle/walk/climb/hang/fall/land/sit/drag/sleep"
+  },
+  {
+    "file": "Box3.png",
+    "sheet": [
+      128,
+      32
+    ],
+    "frame": [
+      32,
+      32
+    ],
+    "frames": 4,
+    "alpha": true,
+    "frameBounds": [
+      [
+        0,
+        1,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ]
+    ],
+    "states": "Shared sheet with procedural idle/walk/climb/hang/fall/land/sit/drag/sleep"
+  },
+  {
+    "file": "EvilBox1.png",
+    "sheet": [
+      384,
+      32
+    ],
+    "frame": [
+      32,
+      32
+    ],
+    "frames": 12,
+    "alpha": true,
+    "frameBounds": [
+      [
+        0,
+        7,
+        31,
+        32
+      ],
+      [
+        0,
+        5,
+        31,
+        32
+      ],
+      [
+        0,
+        2,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ],
+      [
+        0,
+        1,
+        31,
+        32
+      ]
+    ],
+    "states": "Shared sheet with procedural idle/walk/climb/hang/fall/land/sit/drag/sleep"
+  },
+  {
+    "file": "WitchFlying.png",
+    "sheet": [
+      288,
+      64
+    ],
+    "frame": [
+      48,
+      64
+    ],
+    "frames": 6,
+    "alpha": true,
+    "frameBounds": [
+      [
+        0,
+        16,
+        43,
+        64
+      ],
+      [
+        0,
+        14,
+        43,
+        62
+      ],
+      [
+        0,
+        12,
+        43,
+        60
+      ],
+      [
+        0,
+        10,
+        43,
+        58
+      ],
+      [
+        0,
+        12,
+        43,
+        60
+      ],
+      [
+        0,
+        14,
+        43,
+        62
+      ]
+    ],
+    "states": "Shared sheet with procedural idle/walk/climb/hang/fall/land/sit/drag/sleep"
+  },
+  {
+    "file": "VampireAngry.png",
+    "sheet": [
+      288,
+      32
+    ],
+    "frame": [
+      32,
+      32
+    ],
+    "frames": 9,
+    "alpha": true,
+    "frameBounds": [
+      [
+        0,
+        3,
+        30,
+        32
+      ],
+      [
+        0,
+        3,
+        30,
+        32
+      ],
+      [
+        0,
+        3,
+        29,
+        32
+      ],
+      [
+        0,
+        4,
+        28,
+        32
+      ],
+      [
+        0,
+        4,
+        29,
+        32
+      ],
+      [
+        0,
+        4,
+        30,
+        32
+      ],
+      [
+        0,
+        4,
+        29,
+        32
+      ],
+      [
+        0,
+        4,
+        28,
+        32
+      ],
+      [
+        0,
+        4,
+        29,
+        32
+      ]
+    ],
+    "states": "Shared sheet with procedural idle/walk/climb/hang/fall/land/sit/drag/sleep"
+  }
+]

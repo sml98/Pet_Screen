@@ -1,0 +1,68 @@
+[
+  {
+    "id": "cream",
+    "name": "Gato creme",
+    "file": "Idle.png",
+    "frameWidth": 32,
+    "frameHeight": 32,
+    "fps": 8,
+    "recolor": true,
+    "eyes": true,
+    "accessories": true
+  },
+  {
+    "id": "vampire",
+    "name": "Gato vampiro",
+    "file": "drculacat.png",
+    "frameWidth": 32,
+    "frameHeight": 32,
+    "fps": 8,
+    "recolor": true,
+    "eyes": true,
+    "accessories": true
+  },
+  {
+    "id": "box",
+    "name": "Gato na caixa",
+    "file": "Box3.png",
+    "frameWidth": 32,
+    "frameHeight": 32,
+    "fps": 8,
+    "recolor": true,
+    "eyes": true,
+    "accessories": true
+  },
+  {
+    "id": "halloween-box",
+    "name": "Caixa Halloween",
+    "file": "EvilBox1.png",
+    "frameWidth": 32,
+    "frameHeight": 32,
+    "fps": 8,
+    "recolor": true,
+    "eyes": true,
+    "accessories": true
+  },
+  {
+    "id": "witch",
+    "name": "Bruxo na vassoura",
+    "file": "WitchFlying.png",
+    "frameWidth": 48,
+    "frameHeight": 64,
+    "fps": 8,
+    "recolor": true,
+    "eyes": false,
+    "accessories": false
+  },
+  {
+    "id": "angry-vampire",
+    "name": "Vampiro bravo",
+    "file": "VampireAngry.png",
+    "frameWidth": 32,
+    "frameHeight": 32,
+    "fps": 8,
+    "recolor": true,
+    "eyes": true,
+    "accessories": true
+  }
+]

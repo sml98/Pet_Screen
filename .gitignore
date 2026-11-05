@@ -1,0 +1,12 @@
+.gradle/
+**/build/
+local.properties
+*.jks
+*.keystore
+*.apk
+*.aab
+credentials.json
+signing-backup/
+**/signing-backup/
+**/*PRIVADA*
+**/*PRIVADO*
